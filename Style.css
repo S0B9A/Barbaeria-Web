@@ -273,6 +273,12 @@ th {
         position: static;
     }
 
+    .productos {
+        width: auto;
+        margin: 0 auto;
+        padding: 38px;
+    }
+
     .caja,
     .principal,
     .mapa-contenido,
